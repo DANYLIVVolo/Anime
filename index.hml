@@ -1,0 +1,44 @@
+
+<html>
+<head>
+    <title> Аніме</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <header>
+        <h1> Аніме</h1>
+        <nav>
+            <a href="">Головна</a>
+             <a href="">Про них Інформація</a>
+             <a href="">Картинки</a>
+              <a href="">Відео про них</a>
+        </nav>
+    </header>
+    <main>
+        <h2> Інформація</h2>
+    <h4>🔹 Відомі аніме</h4>
+      Naruto
+     Attack on Titan
+     Death Note
+    One Piece</p>
+<p>Чому аніме таке популярне
+Різноманіття тем: від романтики до філософії
+Незвичні сюжети й повороти
+Емоційна глибина персонажів
+ВисGod of High Schoolока якість анімації</p>
+<h3>тут  одні з моїх олюблених аніме</h3>
+<p>Dragon Ball Z,Dragon Ball Super,One Punch Man,JoJo's Bizarre Adventure,Fist
+of the North Star,Baki,Kengan Ashura,Record of Ragnarok,
+Yu Yu Hakusho,Saint Seiya,Afro Samurai,Berserk,God of High School.</p>
+<div> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRYRrLd8SYrNLrTUIWDJViuA443xIA2L1ZA&s"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXD17geDJsLGfVjRgnrFcOEDWFzrv6EHNKZg&s"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5SEZOuhGSXiBXolftF1J-lSHzFtEZNy05A&s"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7g_pCEP1GjTuBq6nERtV8_f74yUqqHFLocgklRp9CtQ&s"/>
+</div>
+    </main>
+      
+    </footer>
+</body>
+
+</html>
