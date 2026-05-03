@@ -1,0 +1,39 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+ background-color:lightblue;
+}
+div{
+    display:flex;
+    justify-content:space-between ;
+    flex-wrap: wrap;
+}
+h1{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color:red;
+    font-size:20px;
+    background-color:yellow;
+    padding: 10px;
+    margin:20px;
+}
+nav a:hover{
+    background-color: #9932CC;
+    color:blue;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+      text-align: center;
+}
+
+
